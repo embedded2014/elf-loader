@@ -63,6 +63,6 @@ run: $(TARGET) app
 		-ex 'monitor arm semihosting enable' \
 		-ex 'continue'
 
-oocd: app
+openocd: app
 	@echo " Launch OpenOCD for stm32f4discovery"
 	@cd app && openocd -f board/stm32f4discovery.cfg -l oocd.log
