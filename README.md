@@ -2,10 +2,10 @@
 
 ## Legal Information
 
-Copyright (C) 2013 Martin Ribelotta <martinribelott@gmail.com>
+Copyright (C) 2013 Martin Ribelotta (martinribelott@gmail.com)
 Licensed under GNU GPL v2 or later
 
-Modified by Jim Huang <jserv.tw@gmail.com>
+Modified by Jim Huang (jserv.tw@gmail.com)
 
 ## ARMv7M ELF loader
 
